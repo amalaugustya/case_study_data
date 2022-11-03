@@ -1,2 +1,2 @@
 # case_study_data
-Data for the interview case study.
+Here is a case study that we would like you to share your findings on. The repository contains the case study documentation and all required data to base your findings on.  
